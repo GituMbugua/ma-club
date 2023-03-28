@@ -6,7 +6,7 @@
     <br />
   </p>
   <p align="center">
-    Completed: April 2021
+    Completed: August 2020
     <br />
   </p>
 </div>
